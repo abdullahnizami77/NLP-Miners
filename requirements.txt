@@ -1,0 +1,6 @@
+pdfminer.six
+farm-haystack[colab,inference]
+sentence-transformers
+faiss-cpu
+streamlit
+gradio_client
